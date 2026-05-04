@@ -1,0 +1,1 @@
+This file exists to verify that enableV2Fixes=true produces a full repo checkout (not sparse). It is intentionally a non-Java, non-manifest file so it only appears in the full checkout.
